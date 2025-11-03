@@ -44,7 +44,7 @@
 
 ● **Arma Principal:** Rapier (DEX, 1d8)  
 ● **Arma Secundária / Escudo:** —  
-● **Itens:** 20 moedas, Anel de safira (dado pela sua mãe)
+● **Itens:** 20 moedas, Anel de safira (dado pela sua mãe), 
 
 ---
 
