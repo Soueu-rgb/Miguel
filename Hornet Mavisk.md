@@ -1,10 +1,15 @@
-
 Nome: Hornet Mavisk
+
 Raça: Skogfolk Silvana
+
 Classe: Ulfhednar
+
 Nível: 5
+
 Divindade Seguida: Sólveig
+
 Senha: dskfo
+
 Idade: 19
 
 
