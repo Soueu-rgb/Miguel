@@ -4,7 +4,7 @@ Raça: Skogfolk Silvana
 
 Classe: Ulfhednar
 
-Nível: 5
+Nível: 6
 
 Divindade Seguida: Sólveig
 
@@ -18,8 +18,8 @@ Idade: 19
 
 **Vida Máxima:** 66  
 **CA:** 10  
-**XP:** 10138  
-**Pontos de Runas:** 0
+**XP:** 8638  
+**Pontos de Runas:** 4
 
 ---
 
@@ -28,6 +28,8 @@ Idade: 19
 |Força|Destreza|Constituição|Inteligência|Sabedoria|Carisma|
 |---|---|---|---|---|---|
 |12|15+1|14|12|12+2|11|
+Restante: 5
+
 
 **Perícias de Raça & Classe:**  
 **Raça:** Sobrevivência e furtividade  
@@ -43,7 +45,7 @@ Idade: 19
 
 ● **Arma Principal:** Rapier (DEX, 1d8)  
 ● **Arma Secundária / Escudo:** —  
-● **Itens:** 20 moedas, Anel de safira (dado pela sua mãe), 
+● **Itens:** 0 moedas, Anel de safira (dado pela sua mãe), 
 
 ---
 
