@@ -1,14 +1,9 @@
 Nome: Hornet Mavisk  
-Raça: Skogfolk Silvana
-
-Classe: Ulfhednar
-
-Nível: 6
-
-Divindade Seguida: Sólveig
-
-Senha: dskfo
-
+Raça: Skogfolk Silvana  
+Classe: Ulfhednar  
+Nível: 6  
+Divindade Seguida: Sólveig  
+Senha: dskfo  
 Idade: 19
 
 
@@ -18,7 +13,7 @@ Idade: 19
 **Vida Máxima:** 66  
 **CA:** 10  
 **XP:** 8638  
-**Pontos de Runas:** 4
+**Pontos de Runas:** 4  
 
 ---
 
@@ -32,7 +27,7 @@ Restante: 5
 
 **Perícias de Raça & Classe:**  
 **Raça:** Sobrevivência e furtividade  
-**Classe:** Bônus de ataque/defesa
+**Classe:** Bônus de ataque/defesa  
 
 **Ações:** 2  
 **Ação Bônus:** 1  
@@ -44,7 +39,7 @@ Restante: 5
 
 ● **Arma Principal:** Rapier (DEX, 1d8)  
 ● **Arma Secundária / Escudo:** —  
-● **Itens:** 0 moedas, Anel de safira (dado pela sua mãe), 
+● **Itens:** 0 moedas, Anel de safira (dado pela sua mãe)  
 
 ---
 
