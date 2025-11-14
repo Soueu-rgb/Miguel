@@ -1,6 +1,6 @@
 Nome: Hornet Mavisk  
 Raça: Skogfolk Silvana  
-Classe: Ulfhednar  
+Classe: Kaze no kiba - Barbaro  
 Nível: 6  
 Divindade Seguida: Sólveig  
 Senha: dskfo  
@@ -10,7 +10,7 @@ Idade: 19
 ---
 # ❤ Vitalidade & Defesa
 
-**Vida Máxima:** 66  
+**Vida Máxima:** 96  
 **CA:** 10  
 **XP:** 8638  
 **Pontos de Runas:** 4  
@@ -27,7 +27,17 @@ Restante: 5
 
 **Perícias de Raça & Classe:**  
 **Raça:** Sobrevivência e furtividade  
-**Classe:** Bônus de ataque/defesa  
+**Classe:**  
+	Fúria (4):
+		+2 de dano corpo-a-corpo;  
+		Resistencia a dano contundente/perfurante/cortante;  
+		Fraqueza a dano psíquico;  
+		Ataque extra no primeiro turno do combate;  
+		+1 de CA quando sem armadura  
+		+5ft de deslocamento;  
+		+1d4 de dano físico;  
+		+1 ação bonus após se movimentar 10ft;  
+		+1 de CA quando se esquiva de um ataque;  
 
 **Ações:** 2  
 **Ação Bônus:** 1  
