@@ -1,7 +1,7 @@
 Nome: Hornet Mavisk  
 Raça: Skogfolk Silvana  
 Classe: Kaze no kiba - Barbaro  
-Nível: 6  
+Nível: 7  
 Divindade Seguida: Sólveig  
 Senha: dskfo  
 Idade: 19
@@ -12,8 +12,8 @@ Idade: 19
 
 **Vida Máxima:** 96  
 **CA:** 10  
-**XP:** 8638  
-**Pontos de Runas:** 4  
+**XP:** 2438  
+**Pontos de Runas:** 5  
 
 ---
 
@@ -22,7 +22,7 @@ Idade: 19
 |Força|Destreza|Constituição|Inteligência|Sabedoria|Carisma|
 |---|---|---|---|---|---|
 |12|15+1|14|12|12+2|11|
-Restante: 5
+Restante: 10
 
 
 **Perícias de Raça & Classe:**  
@@ -50,6 +50,13 @@ Restante: 5
 ● **Arma Principal:** Rapier (DEX, 1d8)  
 ● **Arma Secundária / Escudo:** —  
 ● **Itens:** 0 moedas, Anel de safira (dado pela sua mãe)  
+
+**Marionete Quebrada**  
+Pequeno boneco com traços de ⇜⇨⤋ᴀ꙰.  
+
+- Quando deixado sobre uma superfície, seus fios se movem sozinhos, apontando para lugares “onde o destino puxa”.
+    
+- Serve como **bússola sobrenatural** para encontrar um segredo, uma pessoa ou um caminho perdido — uma vez por lua cheia.
 
 ---
 
