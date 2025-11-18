@@ -2,7 +2,7 @@ Nome: Hornet Mavisk
 Raça: Skogfolk Silvana  
 Classe: Kaze no kiba - Barbaro  
 Nível: 7  
-Divindade Seguida: Sólveig  
+Divindade Seguida: Atéia  
 Senha: dskfo  
 Idade: 19
 
