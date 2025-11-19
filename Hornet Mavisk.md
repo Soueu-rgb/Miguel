@@ -19,10 +19,9 @@ Idade: 19
 
 # 🧠 Atributos & Perícias
 
-|Força|Destreza|Constituição|Inteligência|Sabedoria|Carisma|
-|---|---|---|---|---|---|
-|12|15+1|14|12|12+2|11|
-Restante: 10
+| Força | Destreza | Constituição | Inteligência | Sabedoria | Carisma |
+| ----- | -------- | ------------ | ------------ | --------- | ------- |
+| 14    | 18+1     | 17           | 14           | 12+2      | 11      |
 
 
 **Perícias de Raça & Classe:**  
