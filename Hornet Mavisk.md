@@ -13,7 +13,7 @@ Idade: 19
 **Vida Máxima:** 96  
 **CA:** 10  
 **XP:** 2438  
-**Pontos de Runas:** 5  
+**Pontos de Runas:** 8  
 
 ---
 
@@ -67,8 +67,6 @@ Pequeno boneco com traços de ⇜⇨⤋ᴀ꙰.
 Você executa uma estocada ilusória: o alvo faz CD ou sofre 1d4 cortante e não pode reagir até o fim do seu próximo turno.
 
 **2º Círculo**  
-– **Estocada Dupla:**  
-Você dispara duas lâminas velozes: dois alvos em linha até 15 ft recebem seu ataque de rapieira normalmente.
 
 
 
