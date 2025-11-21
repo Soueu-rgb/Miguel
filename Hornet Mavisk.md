@@ -10,7 +10,7 @@ Idade: 19
 ---
 # ❤ Vitalidade & Defesa
 
-**Vida Máxima:** 96  
+**Vida Máxima:** 118  
 **CA:** 10  
 **XP:** 2438  
 **Pontos de Runas:** 8  
